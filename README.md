@@ -3,7 +3,7 @@
 
 **Latest Build:** 4/7/2015
 
- [<img src="https://img.shields.io/badge/Project 2.exe-Download-blue.svg?style=for-the-badge&logo=appveyor">](https://github.com/aaprather/Toy-Factory/blob/master/Project2/bin/Debug/Project2.exe)
+ [<img src="https://img.shields.io/badge/Project 2.exe-Download-blue.svg?style=for-the-badge&logo=appveyor">](https://github.com/aaprather/Toy-Factory/raw/master/Project2/bin/Debug/Project2.exe)
 
 
 ## Game Information
