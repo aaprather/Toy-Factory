@@ -34,3 +34,6 @@ This game has no end.
 <p align="center">
 <img src="https://raw.githubusercontent.com/aaprather/Toy-Factory/master/s5.png">
 </p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/aaprather/Toy-Factory/master/s6.png">
+</p>
