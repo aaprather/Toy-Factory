@@ -22,4 +22,12 @@ This game has no end.
 <p align="center">
 <img src="https://raw.githubusercontent.com/aaprather/Toy-Factory/master/screenshot.png">
 </p>
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/aaprather/Toy-Factory/master/s2.png">
+</p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/aaprather/Toy-Factory/master/s3.png">
+</p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/aaprather/Toy-Factory/master/s4.png">
+</p>
